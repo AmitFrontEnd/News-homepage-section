@@ -3,7 +3,7 @@
 This is a simple **Frontend Mentor** challenge for practice. The project is fully responsive and built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://amitkumar1590.github.io/News-homepage-section/)
+🔗 [View Live Site](https://amitfrontend.github.io/News-homepage-section/)
 
 ## 📌 Technologies Used
 - HTML
